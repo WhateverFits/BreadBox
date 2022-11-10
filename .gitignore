@@ -34,3 +34,5 @@
 *.swp
 
 *.swo
+outfiles/*
+.vscode/*
